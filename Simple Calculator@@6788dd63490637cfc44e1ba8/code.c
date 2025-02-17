@@ -13,9 +13,7 @@ int main(){
         printf("%d",n*m);
     }
     else if(operation=='/'){
+        if (m!=0)
         printf("%d",n/m);
-    }
-    else{
-        printf("Nothing")
     }
 }
