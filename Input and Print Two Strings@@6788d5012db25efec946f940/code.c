@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main(){
-    char apple[100],mango[100];
+    char apple[100];
+    char mango[100];
     printf("You entered: ");
-    scanf("%c %c",&apple,&mango);
-    printf("%c",apple,mango);
+    scanf("%c",&apple);
+    scanf("%c",&mango);
+    printf("%c",apple and mango);
+    
 }
+ 
