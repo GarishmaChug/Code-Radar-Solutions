@@ -17,6 +17,6 @@ int main(){
         printf("%d",n/m);
     }
     else{
-        printf("print error");
+        printf("print error in case of any error");
     }
 }
