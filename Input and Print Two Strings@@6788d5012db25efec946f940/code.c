@@ -3,10 +3,8 @@ int main(){
     char apple[100];
     char mango[100];
     printf("You entered: ");
-    scanf("%s",&apple);
-    scanf("%s",&mango);
-    printf("%s and",apple);
-    printf("%s",mango);
+    scanf("%s%s",&apple,&mango);
+    printf("%s and %s",apple,mango);
 }
  
 
