@@ -3,9 +3,9 @@ int main(){
    char boy[100];
    int n;
    char read[100];
-   printf("Name: \n");
+   printf("Name: ");
    scanf("%s",&boy);
-   printf("%s",boy);
+   printf("%s" \n,boy);
    printf("Age: \n");
    scanf("%d",&n);
    printf("%d",n);
