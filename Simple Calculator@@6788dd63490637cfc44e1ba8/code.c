@@ -6,4 +6,7 @@ int main(){
     if(operation=='+'){
         printf("%d",n+m);
     }
+    else if(operation=='-'){
+        printf("%d",n-m);
+    }
 }
