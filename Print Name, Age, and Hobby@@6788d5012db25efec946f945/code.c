@@ -6,9 +6,9 @@ int main(){
    printf("Name: ");
    scanf("%s",&boy);
    printf("%s \n",boy);
-   printf("Age: \n");
+   printf("Age: ");
    scanf("%d",&n);
-   printf("%d" \n,n);
+   printf("%d" ,n);
    printf("Hobby: \n");
    scanf("%s",&read);
    printf("%s",read);
