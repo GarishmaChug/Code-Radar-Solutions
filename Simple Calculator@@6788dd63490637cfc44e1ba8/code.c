@@ -12,7 +12,7 @@ int main(){
     else if(operation=='*'){
         printf("%d",n*m);
     }
-    else{
-        printf("%d");
+    else if(operation=='/'){
+        printf("%d",n/m);
     }
 }
