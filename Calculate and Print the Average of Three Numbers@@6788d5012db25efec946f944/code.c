@@ -3,5 +3,5 @@ int main(){
    int a,b,c;
    printf("Average: ");
    scanf("%d %d %d",&a,&b,&c);
-   printf("%.2d",((a+b+c)/3));
+   printf("%.2f",((a+b+c)/3));
 }
