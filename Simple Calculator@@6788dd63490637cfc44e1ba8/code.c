@@ -9,4 +9,7 @@ int main(){
     else if(operation=='-'){
         printf("%d",n-m);
     }
+    else if(operation=='*'){
+        printf("%d",n*m);
+    }
 }
