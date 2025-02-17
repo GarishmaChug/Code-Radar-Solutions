@@ -4,12 +4,12 @@ int main(){
    int n;
    char read[100];
    printf("Name: \n");
-   printf("Age: \n");&
-   printf("Hobby: \n");
    scanf("%c",&boy);
-   scanf("%d",&n);
-   scanf("%c",&read);
    printf("%c",boy);
+   printf("Age: \n");
+   scanf("%d",&n);
    printf("%d",n);
-   printf("%c",read);
+   printf("Hobby: \n");
+   scanf("%c",&read);
+  printf("%c",read);    
 }
