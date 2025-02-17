@@ -1,13 +1,12 @@
-#include <stdio.h>
-int main() {
-    char stringa[1000];
-    char stringb[1000];
+#include<stdio.h>
+int main(){
+    char apple;
+    char mango;
     printf("You entered: ");
-    scanf("%s",&stringa);
-    scanf("%s",&stringb);
-    printf("%s",stringa and);
-    printf("%s",stringb);
-    return 0;
+    scanf("%s",&apple);
+    scanf("%s",&mango);
+    printf("%s",apple and);
+    printf("%s",mango);
 }
  
 
