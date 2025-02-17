@@ -5,7 +5,6 @@ int main(){
     printf("You entered: ");
     scanf("%c",&apple);
     scanf("%c",&mango);
-    printf("%c",apple and mango);
-    
+    printf("%c",apple and mango);  
 }
  
