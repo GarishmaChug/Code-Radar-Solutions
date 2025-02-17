@@ -3,7 +3,7 @@ int main(){
     int n,m;
     scanf("%d %d",&n,&m);
     printf("%d /n",n+m);
-    printf("%d",m/n);
+    printf("%d",n/m);
    
 
 }
